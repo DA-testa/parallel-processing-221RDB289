@@ -41,7 +41,7 @@ def main():
     
     # print out the results, each pair in it's own line (seperated by 2 spaces)
     for t1, t2 in result:
-        print(str(t1)+'  '+str(t2))
+        print(str(t1)+' '+str(t2))
 
 
 if __name__ == "__main__":
